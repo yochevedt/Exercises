@@ -74,7 +74,7 @@ public class Test {
 			System.out.println("Error: " + ex.getMessage());
 		}
           System.out.print("Action succeed:  The data was added");
-	}
-}
+	}}
+
 
 	
